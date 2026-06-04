@@ -8,10 +8,15 @@ I build things, break things in QA, and think a lot about the gap between good s
 Quick facts:
 
 👩🏾‍💻 Pronouns: She/Her
+
 💼 Currently: Frontend Developer at JAM-Forte Technologies Ltd
+
 🎨 Also: UI/UX Designer (Volunteer) at Innov8 Hub
+
 🔬 Independent researcher — researched work on product design and consumer behaviour
+
 🌱 Always learning — currently exploring IT management and software systems
+
 📫 Reach me at ugommaezeogali@gmail.com
 
 
