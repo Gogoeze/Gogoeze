@@ -11,7 +11,7 @@ Quick facts:
 
 💼 Currently: Frontend Developer at JAM-Forte Technologies Ltd
 
-🎨 Also: UI/UX Designer (Volunteer) at Innov8 Hub
+🎨 Also:Frontend Developer and UI/UX Designer (Volunteer) at Innov8 Hub
 
 🔬 Independent researcher — researched work on product design and consumer behaviour
 
